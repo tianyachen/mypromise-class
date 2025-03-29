@@ -1,0 +1,25 @@
+{
+  "name": "mypromise",
+  "version": "1.0.0",
+  "description": "My implementation of JavaScript Promise class",
+  "main": "MyPromise.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tianyachen/mypromise-class.git"
+  },
+  "keywords": [
+    "promise",
+    "javascript",
+    "API",
+    "asychronous"
+  ],
+  "author": "Tianya Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyachen/mypromise-class/issues"
+  },
+  "homepage": "https://github.com/tianyachen/mypromise-class#readme"
+}
