@@ -4,7 +4,7 @@
   "description": "My implementation of JavaScript Promise class",
   "main": "MyPromise.js",
   "scripts": {
-    "test": "./test.sh"
+    "test": "jest --watchAll --noStackTrace"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
     "asychronous"
   ],
   "author": "Tianya Chen",
-  "license": "ISC",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
   "bugs": {
     "url": "https://github.com/tianyachen/mypromise-class/issues"
   },
